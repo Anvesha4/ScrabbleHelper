@@ -1,4 +1,5 @@
 # ScrabbleHelper
+![MainMenu] (https://github.com/Anvesha4/ScrabbleHelper/blob/master/MainMenu.png)
 
 ##About:
 This is a word-game helper application which has the following features (not in the same order):
@@ -15,6 +16,8 @@ This is a word-game helper application which has the following features (not in 
 10. Display a simple table showing Scrabble point values and frequencies for all 26 letters of the English alphabet plus blanks.
 11. Find all ways to play a given set of seven or fewer input tiles (the player’s rack) that extend or cross an existing word on the board (disregarding the positioning of the word on the board). List the results by category (extends the word, crosses the first letter of the word, crosses the second letter, and so on). Sort each play by its total point value within each category, and display the point value next to each play.
 
+![Across/Down Option] (https://github.com/Anvesha4/ScrabbleHelper/blob/master/Across_Down.png)
+
 ##Contents:
 The project contains the following:
 
@@ -25,5 +28,8 @@ The project contains the following:
 5. scrabble.gif: This should be present in the same directory as the scripts.
 
 To run this project, you will need python3. Python libraries required are tkinter, itertools and json.
+
 Usage:
+````
         python3 Scrabble.py 
+````
