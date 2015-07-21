@@ -33,3 +33,5 @@ Usage:
 ````
         python3 Scrabble.py 
 ````
+
+This project was made as an assignment for the course ITP 115 – Programming in Python at University of Southern California, LA.
